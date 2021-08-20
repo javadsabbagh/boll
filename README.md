@@ -6,5 +6,5 @@ Boll is a utility tool enhancing working with system files, e.g copy, sync, norm
 Since boll is a Go project, you need to build and install it as:
 
 ```bash
-go install .
+go build github.com/javadsabbagh/boll/cmd/boll
 ```
